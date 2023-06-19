@@ -4,7 +4,7 @@ This repository contains the accompanying data and code for the [paper](), where
 
 ### Dataset
 
-The dataset for the Cross Genre IR Task along with other supporting files can be accessed [here]().
+The dataset for the IR Task can be accessed [here](Data/).
 
 ### Instructions on Usage.
 
@@ -22,3 +22,4 @@ If you use this work please cite our research paper:
 ```
 
 ```
+
