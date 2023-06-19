@@ -1,6 +1,6 @@
 # Cross-genre Retrieval for Information Integrity: A COVID-19 Case Study
 ## Accepted at ADMA 2023
-This repository contains the accompanying code for the [paper](), where we present an ad hoc information retrieval (IR) task for identifying support for claims made in tweets about COVID-19 from reputable news outlets.
+This repository contains the accompanying data and code for the [paper](), where we present an ad hoc information retrieval (IR) task for identifying support for claims made in tweets about COVID-19 from reputable news outlets.
 
 ### Dataset
 
